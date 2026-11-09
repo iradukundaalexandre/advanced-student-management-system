@@ -1,0 +1,7 @@
+export const initialStudents = [
+  { id: 'STU-1001', firstName: 'Aline', lastName: 'Uwase', email: 'aline.uwase@example.com', phone: '+250 788 100 101', gender: 'Female', course: 'Software Development', year: 'Level 5', status: 'Active', joined: '2026-01-12', address: 'Kigali, Rwanda' },
+  { id: 'STU-1002', firstName: 'Eric', lastName: 'Mugisha', email: 'eric.mugisha@example.com', phone: '+250 788 100 102', gender: 'Male', course: 'Computer Science', year: 'Level 4', status: 'Active', joined: '2026-02-03', address: 'Kigali, Rwanda' },
+  { id: 'STU-1003', firstName: 'Diane', lastName: 'Iradukunda', email: 'diane.iradukunda@example.com', phone: '+250 788 100 103', gender: 'Female', course: 'Networking', year: 'Level 5', status: 'Inactive', joined: '2025-09-08', address: 'Musanze, Rwanda' },
+  { id: 'STU-1004', firstName: 'Kevin', lastName: 'Niyonzima', email: 'kevin.niyonzima@example.com', phone: '+250 788 100 104', gender: 'Male', course: 'Software Development', year: 'Level 3', status: 'Active', joined: '2026-03-18', address: 'Huye, Rwanda' },
+  { id: 'STU-1005', firstName: 'Grace', lastName: 'Mukamana', email: 'grace.mukamana@example.com', phone: '+250 788 100 105', gender: 'Female', course: 'Information Technology', year: 'Level 4', status: 'Graduated', joined: '2024-01-15', address: 'Rubavu, Rwanda' }
+]
